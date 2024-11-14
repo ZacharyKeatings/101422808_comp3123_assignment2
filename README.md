@@ -1,4 +1,4 @@
-# 101422808_COMP3123_Assignment1
+# 101422808_COMP3123_Assignment2
  
  Install packages (if node_modules directory is missing):
  ```
